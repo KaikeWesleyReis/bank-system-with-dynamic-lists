@@ -13,3 +13,4 @@ In words, there is a **AGENCY LIST** where each agency has a **CLIENT LIST** whe
 ## SOME NOTES
 - First I developed this code using *Dev-C++* and after using *VS Code*. So I tried to keep this code more generic as possible.
 - This code was initially created in portuguese-br language, but I manage to change the commentaries to english.
+- the **ex.txt** when you run show some errors. This NORMAL, it was developed to analyzed how the code response to problems situations.
